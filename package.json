@@ -1,0 +1,16 @@
+{
+  "name": "codexbusi",
+  "version": "0.1.0",
+  "description": "Bridge Codex auth changes into OpenCode auth format.",
+  "type": "module",
+  "bin": {
+    "codex-opencode-bridge": "./src/cli.js"
+  },
+  "scripts": {
+    "test": "node --test",
+    "start": "node ./src/cli.js watch"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
