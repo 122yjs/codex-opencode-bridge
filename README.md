@@ -29,7 +29,7 @@ node ./src/cli.js install-launch-agent
 ## Local global install
 
 ```bash
-npm install -g /Users/junier/Documents/Develop/codexbusi
+npm install -g /Users/junier/Documents/Develop/codex-opencode-bridge
 codex-opencode-bridge status
 ```
 
