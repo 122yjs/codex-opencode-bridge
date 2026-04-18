@@ -6,7 +6,7 @@
   "license": "MIT",
   "author": "junier",
   "bin": {
-    "codex-opencode-bridge": "./src/cli.js"
+    "codex-opencode-bridge": "src/cli.js"
   },
   "files": [
     "README.md",
