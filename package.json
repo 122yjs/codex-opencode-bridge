@@ -22,11 +22,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/122yjs/codexbusi.git"
+    "url": "git+https://github.com/122yjs/codex-opencode-bridge.git"
   },
-  "homepage": "https://github.com/122yjs/codexbusi#readme",
+  "homepage": "https://github.com/122yjs/codex-opencode-bridge#readme",
   "bugs": {
-    "url": "https://github.com/122yjs/codexbusi/issues"
+    "url": "https://github.com/122yjs/codex-opencode-bridge/issues"
   },
   "scripts": {
     "test": "node --test",
