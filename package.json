@@ -1,10 +1,32 @@
 {
-  "name": "codexbusi",
-  "version": "0.1.0",
+  "name": "codex-opencode-bridge",
+  "version": "0.1.1",
   "description": "Bridge Codex auth changes into OpenCode auth format.",
   "type": "module",
+  "license": "MIT",
+  "author": "junier",
   "bin": {
     "codex-opencode-bridge": "./src/cli.js"
+  },
+  "files": [
+    "README.md",
+    "LICENSE",
+    "src"
+  ],
+  "keywords": [
+    "codex",
+    "opencode",
+    "auth",
+    "bridge",
+    "cli"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/122yjs/codexbusi.git"
+  },
+  "homepage": "https://github.com/122yjs/codexbusi#readme",
+  "bugs": {
+    "url": "https://github.com/122yjs/codexbusi/issues"
   },
   "scripts": {
     "test": "node --test",
