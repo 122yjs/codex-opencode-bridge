@@ -17,6 +17,10 @@
 - For interactive long-lived sessions, restart `opencode` to reliably apply a switched account.
 - One-shot commands started after the file update (for example, `opencode run ...`) are expected to read the latest auth state at process start.
 
+## OpenCode Desktop Notes
+
+If you are troubleshooting the OpenCode Desktop integration, see [docs/opencode-desktop-notes.md](docs/opencode-desktop-notes.md) for the issues we filed and the temporary local workarounds that helped verify them.
+
 ## Usage
 
 ```bash
